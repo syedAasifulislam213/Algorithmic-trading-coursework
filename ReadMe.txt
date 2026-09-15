@@ -1,0 +1,1 @@
+This folder contains the final report pdf and code notebook for the whole project. Additionally, a yml file is attached in case the marker would like to install the required library versions and run the code themselves, as CUDA was used to make TensorFlow training much quicker and this required specific older versions of certain packages.
